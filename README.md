@@ -1,2 +1,3 @@
 - Model Swin Transformer yang diusulkan oleh Ze Liu (https://arxiv.org/pdf/2103.14030.pdf)
-- Used Dataset Fashion MNIST 
+- Used Dataset Fashion MNIST
+- credit https://github.com/yingkaisha/keras-vision-transformer
