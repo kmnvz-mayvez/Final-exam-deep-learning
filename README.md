@@ -1,0 +1,2 @@
+- model Swin Transformer yang diusulkan oleh Ze Liu dkk (https://arxiv.org/pdf/2103.14030.pdf)
+- Dataset Fashion MNIST 
